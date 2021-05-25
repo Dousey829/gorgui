@@ -1,0 +1,20 @@
+body{
+background-color: green;
+}
+ul{
+float: right;
+}
+
+h1{
+    text-align: center;
+    width: 90%;
+}
+p{
+    color:white
+    ;
+    font-size: larger;
+    border:;
+}
+#logo{
+    width: 12%;
+}
